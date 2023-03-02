@@ -69,7 +69,7 @@ $ nest g s <name>
 ## Stay in touch
 
 - Author - [Sazal Ahamed](https://sazal.vercel.app)
-- Linkedin - [Profie](https://www.linkedin.com/in/sazal-ahamed/)
+- Linkedin - [Profile](https://www.linkedin.com/in/sazal-ahamed/)
 - GitHub - [DevSazal](https://github.com/DevSazal)
 
 ## License
