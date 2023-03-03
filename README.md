@@ -53,6 +53,19 @@ $ npm run test:e2e
 $ npm run test:cov
 ```
 
+## Dev Note {NestJS CLI}
+
+```bash
+# generate module by terminal
+$ nest g mo <name>
+
+# generate controller by terminal
+$ nest g co <name>
+
+# generate service by terminal
+$ nest g s <name>
+```
+
 ## Stay in touch
 
 - Author - [Sazal Ahamed](https://sazal.vercel.app)
